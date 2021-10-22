@@ -1,0 +1,22 @@
+body{
+    background-color: #d8b8cf;
+}
+
+  h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    color: #21421e;
+    font-weight: 600;
+}
+
+li.roles{
+    font-weight: 600;
+}
+
+.about{
+    font-weight: 700;
+}
